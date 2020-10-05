@@ -1,6 +1,6 @@
 package Manufacturer;
 
-public abstract class Manufacturer implements IManufacturer {
+public class Manufacturer implements IManufacturer {
     String name;
 
     public Manufacturer(String name) {

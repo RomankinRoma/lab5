@@ -2,7 +2,7 @@ package Car;
 
 import Manufacturer.Manufacturer;
 
-public abstract class Car implements ICar {
+public  class Car implements ICar {
     Manufacturer manufacturer;
     Double speed;
     String name;
